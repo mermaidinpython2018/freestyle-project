@@ -13,7 +13,7 @@ Return articles from the Daily Astrologer Post so that user can quickly access y
 2.	Formatted output to the user's terminal displaying the information received from the Astrologer API.
 ## Technology Requirements
 ### APIs and Web Services Requirements
-Navigate to the NYTimes API documentation and get an API key: https://www.programmableweb.com/api/astrologer
+Navigate to the the Astrologer API documentation and get an API key: https://www.programmableweb.com/api/astrologer
 ### Python package Requirements
 Note: you might need to use Python 3 to run this program.
 ### Hardware Requirements
